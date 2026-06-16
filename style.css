@@ -145,7 +145,7 @@ header .navbar {
 }
 
 .hero-section .hero-details .title {
-    font-family: var(--font-size-xxl);
+    font-size: 3rem;
     color: var(--orange);
     font-family: "Miniver", sans-serif;
 }
